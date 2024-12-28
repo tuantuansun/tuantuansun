@@ -28,7 +28,7 @@
 
 \`\`\`css
 #me {
-  name: "Your Name";
+  name: "Iris";
   location: "Cyberspace, Internet";
   current_job: "Digital Dreamweaver";
   interests: ["Web Sorcery", "Pixel Art", "Time Travel"];
@@ -77,10 +77,6 @@
 ## 📡 Connect with Me on the Information Superhighway
 
 <div align="center">
-
-[![MySpace](https://img.shields.io/badge/MySpace-pink?style=for-the-badge&logo=myspace&logoColor=white)](https://yourprofile.com)
-[![AIM](https://img.shields.io/badge/AIM-fuchsia?style=for-the-badge&logo=aim&logoColor=white)](https://yourprofile.com)
-[![Geocities](https://img.shields.io/badge/Geocities-ff69b4?style=for-the-badge&logo=geocities&logoColor=white)](https://yourprofile.com)
 
 </div>
 
