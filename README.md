@@ -10,9 +10,7 @@
   margin: 1rem 0;
 ">
 
-# Hello, I'm aerizts! 👋
-
-Welcome to my GitHub profile. This README has a soft pink, translucent style to add a warm, inviting look.
+# Hello, I'm Iris! 
 
 ## 🔧 Skills & Technologies
 - **Languages:** Python, JavaScript, C++, Java  
@@ -20,16 +18,9 @@ Welcome to my GitHub profile. This README has a soft pink, translucent style to 
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Tools & Cloud Services:** Git, Docker, AWS  
 
-## 🚀 Projects
-- [**Project One**](https://github.com/aerizts/project-one): A brief description about what this project does.  
-- [**Project Two**](https://github.com/aerizts/project-two): Another project that highlights a specific skill or technology.
 
 ## 🌱 What I'm Currently Learning
-- Exploring more on Kubernetes and advanced DevOps techniques.
-- Delving into data science and machine learning libraries.
+- Frontend
 
-## 📫 Contact Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/aerizts)
 
 </div>
