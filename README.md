@@ -2,11 +2,11 @@
 
 <!-- Gradient Header with Glow -->
 
-<h1 style="color: #FF7EB3; text-shadow: 0px 0px 15px #FF7EB3;">✨ Hi there 👋, I'm <span style="color: #FFD580;">Tuantuan Sun</span> ✨</h1>
+<h1 style="color: #FF7EB3; text-shadow: 0px 0px 15px #FF7EB3;">✨ span style="color: #FFD580;">Tuantuan Sun</span> ✨</h1>
 
 <p style="color: #FFD580; font-size: 18px; text-shadow: 0px 0px 10px #FFD580;">
 
-I use GitHub to explore fascinating randomness and share my creative ideas with the world as a distance-learning CS student at Arizona State University.
+
 
 </p>
 
@@ -20,11 +20,11 @@ I use GitHub to explore fascinating randomness and share my creative ideas with 
 
 <div style="background: linear-gradient(135deg, #FF7EB3 0%, #FFD580 100%); padding: 15px; border-radius: 10px; color: #fff; box-shadow: 0px 0px 20px rgba(255, 126, 179, 0.5);">
 
-- 🔭 I’m currently working on my **CS coursework** at Arizona State University.
+ 
 
 - 🌱 I’m currently learning **React**, **Python**, and **machine learning basics**.
 
-- 🌸 As a proud Pacific Islander girl, I bring creativity and cultural perspective to everything I build.
+- 🌸 
 
 - 📫 How to reach me: Just drop me a **PM** or connect with me on GitHub!
 
